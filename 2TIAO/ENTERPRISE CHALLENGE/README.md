@@ -60,7 +60,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>Listagem de Links</b>:
   - Vídeo da Sprint 1 (YouTube, não listado): `https://youtu.be/COLE_O_LINK_AQUI`
-  - Kanban (Trello): `https://trello.com/b/COLE_O_LINK_AQUI`
+  - Kanban (Trello): `https://trello.com/b/nbJ12mfZ/fiap`
   - Wireframes navegáveis (Figma): `COLE_O_LINK_AQUI`
   - Especificação de referência: *User Stories — Prompt Injection Guard Service*, Intelliway, v2.0 (06/10/2026)
 
